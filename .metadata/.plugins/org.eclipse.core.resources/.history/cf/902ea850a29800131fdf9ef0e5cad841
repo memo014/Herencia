@@ -1,0 +1,47 @@
+
+class A
+	{
+	int x;
+		void func()
+		{
+			System.out.print("Hola Mundo");
+			}
+	}
+	class B extends A
+	{
+	int y;
+		void func2()
+		{
+			System.out.print("Hola mundo2");
+		}
+		}
+	
+public class Herencia {
+
+	public static void main(String[] args) {
+A a;
+B b;
+
+a=new A();
+b=new B();
+a.func();
+b.func2();
+b.func();
+
+a.x=10;
+b.y=20;
+b.x=30;
+System.out.print(a.x);
+System.out.print(b.y);
+System.out.print(b.x);
+
+
+
+
+	
+	
+	
+		
+	}
+
+}

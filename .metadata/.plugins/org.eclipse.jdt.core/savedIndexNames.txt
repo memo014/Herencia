@@ -1,0 +1,20 @@
+INDEX VERSION 1.126+/home/alumno/Herencia/.metadata/.plugins/org.eclipse.jdt.core
+2917671654.index
+848062073.index
+1545600991.index
+1083419007.index
+2982172336.index
+560299746.index
+1781429540.index
+3855034953.index
+2365990085.index
+1099050899.index
+2610638042.index
+3708087088.index
+641676676.index
+2330398407.index
+2588194994.index
+383489868.index
+2394517648.index
+613070220.index
+2423112536.index
